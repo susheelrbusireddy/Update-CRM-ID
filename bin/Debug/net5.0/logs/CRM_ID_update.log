@@ -1,0 +1,18 @@
+2022-12-22 12:13:59,145 [1] INFO UpdateCRM_ID.Program.MoveNext[43] - ******************* CRM ID : 123412341 *******************
+2022-12-22 12:14:00,657 [4] INFO UpdateCRM_ID.Program.MoveNext[65] - CRM ID : 123412341 updated for 0 users 
+2022-12-22 12:14:00,680 [4] INFO UpdateCRM_ID.Program.MoveNext[68] - ***************************************************
+2022-12-22 12:14:00,680 [4] INFO UpdateCRM_ID.Program.MoveNext[43] - ******************* CRM ID : 1234567890 *******************
+2022-12-22 12:14:01,589 [4] INFO UpdateCRM_ID.Program.MoveNext[65] - CRM ID : 1234567890 updated for 0 users 
+2022-12-22 12:14:01,590 [4] INFO UpdateCRM_ID.Program.MoveNext[68] - ***************************************************
+2022-12-22 12:14:01,590 [4] INFO UpdateCRM_ID.Program.MoveNext[43] - ******************* CRM ID : 7779991 *******************
+2022-12-22 12:14:03,551 [12] INFO UpdateCRM_ID.Program.MoveNext[62] - CRM ID updated for : testuser.41
+2022-12-22 12:14:05,927 [12] INFO UpdateCRM_ID.Program.MoveNext[62] - CRM ID updated for : testuser.40
+2022-12-22 12:14:07,216 [5] INFO UpdateCRM_ID.Program.MoveNext[62] - CRM ID updated for : testuser.38
+2022-12-22 12:14:07,216 [5] INFO UpdateCRM_ID.Program.MoveNext[65] - CRM ID : 7779991 updated for 3 users 
+2022-12-22 12:14:07,217 [5] INFO UpdateCRM_ID.Program.MoveNext[68] - ***************************************************
+2022-12-22 12:14:07,217 [5] INFO UpdateCRM_ID.Program.MoveNext[43] - ******************* CRM ID : 222333444 *******************
+2022-12-22 12:14:09,195 [12] INFO UpdateCRM_ID.Program.MoveNext[62] - CRM ID updated for : test.arcadia@gmail.com
+2022-12-22 12:14:10,190 [12] INFO UpdateCRM_ID.Program.MoveNext[62] - CRM ID updated for : raymond.gillett@cigna.com
+2022-12-22 12:14:10,190 [12] INFO UpdateCRM_ID.Program.MoveNext[65] - CRM ID : 222333444 updated for 2 users 
+2022-12-22 12:14:10,190 [12] INFO UpdateCRM_ID.Program.MoveNext[68] - ***************************************************
+2022-12-22 12:14:10,191 [12] INFO UpdateCRM_ID.Program.MoveNext[70] - Total users updated : 5
